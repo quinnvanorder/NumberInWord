@@ -6,6 +6,7 @@ numbers. You can use if-else statement or switch statement as preferred.
  */
 public class Main {
     public static void main(String[] args) {
+        NumberInWord.printNumberInWord(3);
 
     }
 }
